@@ -1,5 +1,5 @@
 # Madoka Animes ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
-- Madoka Animes foi um site experimental . Foi usada a API do **[Anroll](https://github.com/nicaksks/EnmaAi)** para puxar as informações dos animes e dos episódios.
+- Madoka Animes foi um site experimental. Foi criado usando a API do **[Anroll](https://github.com/nicaksks/EnmaAi)** para puxar as informações dos animes e dos episódios.
 
 ### Conteúdo
 * **[Frontend](#frontend)**
@@ -52,7 +52,7 @@
 * **Runtime**: **`Node (21.7.1)`**;
 * **Framework**: **`Express`**;
 * **Bibliotecas + Fork**: **`node-fetch, ws e` [discord-rpc](https://github.com/garotas-magicas/madoka/tree/main/src/libs/RPC)**;
-* **Repositório (ANTIGO)**: **[Madoka Webview](https://github.com/garotas-magicas/madoka)**
+* **Repositório**: **[Madoka Webview](https://github.com/garotas-magicas/madoka)**
 
 ### Sobre
 * `discord-rpc` adicionado suporte para novas atividades como: **LISTENING, WATCHING e COMPETING**
