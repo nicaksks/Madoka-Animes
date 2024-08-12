@@ -32,10 +32,9 @@
 
 ### 「 ✦ RPC ✦ 」
 
-![](https://pbs.twimg.com/media/GTLgaj4WEAAzIKd?format=png&name=small)
-![](https://pbs.twimg.com/media/GTLgcRoWQAA2K5k?format=png&name=small)
-![](https://pbs.twimg.com/media/GTLgiDhWEAAV5Xa?format=png&name=small)
-![](https://pbs.twimg.com/media/GTLg3nyXsAAMPhd?format=png&name=small)
+![](https://i.imgur.com/XFVAhZF.png)
+![](https://i.imgur.com/GxJfsl9.png)
+![](https://i.imgur.com/DVznXAA.png)
 
 # Backend
 * **Linguagem**: **`Typescript (5.5.3)`**;
