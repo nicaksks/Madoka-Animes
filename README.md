@@ -1,34 +1,26 @@
-# Madoka Animes ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
-- Madoka Animes foi um site experimental. Foi criado usando a API do **[Anroll](https://github.com/nicaksks/EnmaAi)** para puxar as informações dos animes e dos episódios.
+# °ʚ madoka-animes 🎀 ɞ
 
-### Conteúdo
-* **[Frontend](#frontend)**
-    - **[Imagens](#imagens)**
-* **[Backend](#backend)**
-    - **[Sobre](#sobre)**
-* **[Webview](#webview)**
-    - **[Sobre](#sobre-1)**
-* **[Créditos](#creditos)**
+madoka-animes was an experimental streaming website, made with multiple providers to watch animes without ADS or cryptominers.
 
-# Frontend
-* **Linguagem**: **`Typescript (5.5.3)`**;
+# frontend 
+* **Language**: **`Typescript (5.5.3)`**;
 * **Runtime**: **`Bun (1.1.21)`**;
 * **Framework**: **`NextJS`**;
-* **Bibliotecas**: **`AuthJS, Tailwind, videojs`**
-* **Repositório**: **`Privado`**
+* **Libraries**: **`AuthJS, Tailwind, videojs`**
+* **Repository**: **`🔒 `**
 
-### Imagens
+### screenshots
 ### 「 ✦ main frame ✦ 」
 
-![](https://i.imgur.com/ueMwOgI.png)
+![](https://i.imgur.com/dhnDln5.png)
 
 ### 「 ✦ search ✦ 」
 
-![](https://i.imgur.com/NyVdcdm.png)
+![](https://i.imgur.com/nfTWK5v.png)
 
 ### 「 ✦ view ✦ 」
 
-![](https://i.imgur.com/cMt0Cum.png)
+![](https://i.imgur.com/roEMoJS.png)
 
 ### 「 ✦ RPC ✦ 」
 
@@ -36,25 +28,24 @@
 ![](https://i.imgur.com/GxJfsl9.png)
 ![](https://i.imgur.com/DVznXAA.png)
 
-# Backend
-* **Linguagem**: **`Typescript (5.5.3)`**;
+# backend
+* **Language**: **`Typescript (5.5.3)`**;
 * **Runtime**: **`Bun (1.1.21)`**;
 * **Framework**: **`Express`**;
-* **Bibliotecas**: **`express-rate-limit e` [zed](https://github.com/garotas-magicas/zed)**;
-* **Repositório (ANTIGO)**: **[Enma Ai](https://github.com/nicaksks/EnmaAi)**
+* **Libraries**: **`express-rate-limit`,  [zed](https://github.com/garotas-magicas/zed)**;
+* **Repository**: **`🔒 `**
 
-### Sobre
-* `zed` é uma lib simples usando global this e prototype para validar as `querys e params da Enma`;
-
-# Webview
-* **Linguagem**: **`Typescript (5.5.3)`**;
+### about backend
+* `zed` is a simple library that uses `global.this` and `prototypes` to validate Enma queries and parameters.
+# webview
+* **Language**: **`Typescript (5.5.3)`**;
 * **Runtime**: **`Node (21.7.1)`**;
 * **Framework**: **`Express`**;
-* **Bibliotecas + Fork**: **`node-fetch, ws e` [discord-rpc](https://github.com/garotas-magicas/madoka/tree/main/src/libs/RPC)**;
-* **Repositório**: **[Madoka Webview](https://github.com/garotas-magicas/madoka)**
+* **Libraries + Fork**: **`node-fetch, ws e` [discord-rpc](https://github.com/garotas-magicas/madoka/tree/main/src/libs/RPC)**;
+* **Repository (Legacy)**: **[madoka-webview](https://github.com/garotas-magicas/madoka)**
 
-### Sobre
-* `discord-rpc` adicionado suporte para novas atividades como: **LISTENING, WATCHING e COMPETING**
+### about webview
+* `discord-rpc` added support to new activities, like **LISTENING, WATCHING** and **COMPETING**
 
-# Créditos
-- **[Vergonha](https://github.com/vergonha), [nicaksks](https://github.com/nicaksks) e [Anroll](https://www.anroll.net/)**
+# our team! \o/
+- **[vergonha](https://github.com/vergonha), [nicaksks](https://github.com/nicaksks)**
