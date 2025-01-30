@@ -7,7 +7,7 @@ madoka-animes was an experimental streaming website, made with multiple provider
 * **Runtime**: **`Bun (1.1.21)`**;
 * **Framework**: **`NextJS`**;
 * **Libraries**: **`AuthJS, Tailwind, videojs`**
-* **Repository**: **`🔒 `**
+* **Repository**: **[homura](https://github.com/garotas-magicas/homura)**
 
 ### screenshots
 ### 「 ✦ main frame ✦ 」
@@ -33,7 +33,7 @@ madoka-animes was an experimental streaming website, made with multiple provider
 * **Runtime**: **`Bun (1.1.21)`**;
 * **Framework**: **`Express`**;
 * **Libraries**: **`express-rate-limit`,  [zed](https://github.com/garotas-magicas/zed)**;
-* **Repository**: **[homura](https://github.com/garotas-magicas/homura)**
+* **Repository**: `🔒`
 
 ### about backend
 * `zed` is a simple library that uses `global.this` and `prototypes` to validate Enma queries and parameters.
